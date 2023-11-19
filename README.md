@@ -1,6 +1,7 @@
 # [my-resume](https://santiagoagustinplaza.github.io/frontend/index.html)
 
-This repository contains my web resume and its integrations with Azure services.
+This repository contains [my web resume](https://santiagoagustinplaza.github.io/frontend/index.html) and its integrations with Azure services.
+
 
 ## Prerequisites
 
